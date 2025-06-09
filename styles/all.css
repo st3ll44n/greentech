@@ -1,0 +1,200 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: var(--corPri);
+}
+
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+:root{
+    --corPri:#A5D6A7;
+    --corSec: #2E7D32;
+    --corTerc: #CFD8DC;
+    --corQuart: #F1F8E9;
+    --corQuin: #00796B;
+}
+
+/* HEADER */
+
+header{
+    position: relative;
+    width: 1440px;
+    height: 150px;
+}
+
+    .retanguloHeader{ 
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+        background-color: var(--corSec)
+    }
+
+    .logo{
+        position: absolute;
+        left: 3.89%;
+        right: 89.17%;
+        top: 16.67%;
+        bottom: 16.67%;
+        background: var(--corTerc);
+        border-radius: 100px;
+    }
+
+    .retangulo1{
+        position: absolute;
+        left: 82.85%;
+        right: 3.26%;
+        top: 34.67%;
+        bottom: 35.33%;
+        background: var(--corTerc);
+        border-radius: 15px;
+    }
+
+    .retangulo2{
+        position: absolute;
+        left: 67.08%;
+        right: 19.03%;
+        top: 34.67%;
+        bottom: 35.33%;
+        background: var(--corTerc);
+        border-radius: 15px;
+    }
+
+    .retangulo3{
+        position: absolute;
+        left: 51.32%;
+        right: 34.79%;
+        top: 34.67%;
+        bottom: 35.33%;        
+        background: var(--corTerc);
+        border-radius: 15px;
+    }
+
+    .greentech{
+        position: absolute;
+        width: 284px;
+        left: 194px;
+        top: 36%;
+        bottom: 36%;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 50px;
+        line-height: 61px;
+        background-color: var(--corSec);
+        align-items: center;
+        text-align: center;
+        
+        color: var(--corQuart);
+    }
+
+    .login{
+        position: absolute;
+        width: 149px;
+        height: 30px;
+        left: calc(50% - 149px/2 + 345.5px);
+        top: calc(50% - 30px/2);
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 25px;
+        line-height: 30px;
+
+       /* display: flex;  NÃO EXISTE DISPLAY FLEX COM EESAS 
+       OUTRAS 2 FUNCIONALIDADES ABAIXO, 
+       ELAS NÃO PODEM ESTAR JUNTAS TONHONAAAAAAAAAA
+       
+       COMO VC COLOCOU BACKGROUND COLOR NA PAGINA TOTAL,
+        VC PRECISA DEFINIR A COR DAS DIVS QUE VC TA CRIANDO, 
+        ATE PQ AS MESMAS SÃO APENAS QUADRADOS SEM PLANO DE FUNDO 
+        LOGOOOO ELAS FICAM COM A COR DE FUNDO PRINCIPAL QUE VC 
+        DEFINIU LA NO BODY ENTÃOOOOOOOOO VC PRECISAR DEFINIR A COR QUE VC QUER;
+       
+       */
+       
+        align-items: center;
+        text-align: center;
+        background-color: var(--corTerc);
+        color: #000000;
+    }
+
+    .home{
+        position: absolute;
+        width: 149px;
+        height: 30px;
+        left: calc(50% - 149px/2 + 118.5px);
+        top: calc(50% - 30px/2);
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 25px;
+        line-height: 30px;
+        align-items: center;
+        text-align: center;
+        background-color: var(--corTerc);
+        color: #000000;
+    }
+
+
+    .catalogo{
+        position: absolute;
+        width: 149px;
+        height: 30px;
+        left: calc(50% - 149px/2 + 572.5px);
+        top: calc(50% - 30px/2);
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 25px;
+        line-height: 30px;
+        align-items: center;
+        text-align: center;
+        background-color: var(--corTerc);
+        color: #000000;
+    }
+
+/* FOOTER */
+
+footer{
+    position: relative;
+    width: 1440px;
+    height: 75px;
+    background-color: var(--corSec)
+}
+
+    .retanguloFooter{
+
+        position: absolute;
+        left: 29.17%;
+        right: 29.17%;
+        top: 33.33%;
+        bottom: 33.33%;
+        
+        background: var(--corQuart);
+        border-radius: 15px;
+    }
+
+    .direitos{
+        position: absolute;
+        left: 29.86%;
+        right: 30.21%;
+        top: 34.67%;
+        bottom: 33.33%;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 24px;
+        align-items: center;
+        text-align: center;
+        background-color: var(--corQuart);
+        color: #000000;
+    }
