@@ -14,7 +14,9 @@
 
     <header class="header">
         <div class="retanguloHeader"></div>
-        <div class="logo"></div>
+        <div class="Logo">
+            <img src="images/leaf-fill.svg" alt="Logo GreenTech" class="logo" />
+        </div>
 
         <div class="retangulo1"></div>
         <div class="retangulo2"></div>
@@ -64,25 +66,28 @@
 
 
         <!-- Notícia 1 -->
-        <div class="Container" class="container1" style="top: 269px; left: 440px; width: 430px; height: 180px;">
+        <div class="Container" class="container1" style="top: 275px; left: 440px; width: 28.7%; height: 180px;">
             <div class="container2"></div>
-            <p class="noticia">Notícia importante! Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p class="noticia"><br>Notícia importante!<br><br>
+            Lorem ipsum dolor sit amet. Ut modi sint ab sint repudiandae ut laboriosam enim. Est enim neque non perferendis vero ea voluptas expedita qui corporis tenetur quo cumque praesentium. Ex nesciunt velit aut quia officia id eaque...</p>
         </div>
 
         <!-- Notícia 2 -->
-        <div class="Container2" class="container1" style="top: 469px; left: 440px; width: 430px; height: 180px;">
+        <div class="Container2" class="container1" style="top: 475px; left: 440px; width: 28.7%; height: 180px;">
             <div class="container2"></div>
-            <p class="noticia">Notícia importante! Donec at leo non justo sollicitudin.</p>
+            <p class="noticia"><br>Notícia importante!<br><br>
+            Lorem ipsum dolor sit amet. Ut modi sint ab sint repudiandae ut laboriosam enim. Est enim neque non perferendis vero ea voluptas expedita qui corporis tenetur quo cumque praesentium. Ex nesciunt velit aut quia officia id eaque... </p>
         </div>
 
         <!-- Sobre nós - Bloco 1 -->
-        <div class="Container3" class="container3" style="top: 869px; left: 33px; width: 837px; height: 236px;">
+        <div class="Container3" style="top: 669px; left: 33px; width: 50%; height: 200px;">
             <div class="container4"></div>
-            <p class="sobrenos">Sobre nós Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p class="noticia"><br>Sobre nós<br><br>
+            Lorem ipsum dolor sit amet. Ut modi sint ab sint repudiandae ut laboriosam enim. Est enim neque non perferendis vero ea voluptas expedita qui corporis tenetur quo cumque praesentium. Ex nesciunt velit aut quia officia id eaque soluta est doloremque dicta qui explicabo tenetur non amet veritatis. Et atque tenetur nam modi illo qui quos pariatur non tempora praesentium.</p>
         </div>
 
-        <!-- Imagem
-        <img class="image" src="\images\30e495fd-3e48-42a6-bbb0-e236be7c6244.png" alt=""> -->
+         <!-- Imagem -->
+         <!-- <img src="images/post.png" alt="Descrição da imagem" class="Image" /> -->
     </main>
 
     <br>
