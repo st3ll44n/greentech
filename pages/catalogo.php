@@ -32,6 +32,13 @@
         </nav>
     </header>
 
+        <nav>
+            <a class="home" href="C:\xampp\htdocs\GreenTech\index.php">Home</a>
+            <a class="catalogo" href="catalogo.php">Catálogo</a>
+            <a class="login" href="login.php">Login</a>
+        </nav>
+
+    </header>
     <main>
     <div class="catalogo-titulo">Catálogo</div>
 
