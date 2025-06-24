@@ -42,6 +42,7 @@
 
     </header>
     <main>
+<<<<<<< Updated upstream
         <!-- Título -->
         <div class="titulo-usuario">Usuário</div>
 
@@ -110,6 +111,74 @@
         <div class="opcao2">Opção 2</div>
         <div class="opcao3">Opção 3</div>
         </div>
+=======
+        
+    <!-- Menu Lateral -->
+    <div style="position: absolute; width: 389px; height: 468px; left: 33px; top: 177px;">
+        <div class="menu1"></div>
+            <div class="menu2"></div>
+                <div class="menu menu">MENU</div>
+            <div class="menu3"></div>
+                <div class="menuPromo">PROMOÇÃO</div>
+            <div class="menu4"></div>
+                <div class="menuSist">SISTEMAS SUSTENTÁVEIS</div>
+            <div class="menu5"></div>
+                <div class="menuInsta">INSTALAÇÕES</div>
+            <div class="menu6"></div>
+                <div class="menuServiços">SERVIÇOS</div>
+            <div class="menu8"></div>
+                <div class="menuSobre">SOBRE NÓS</div>
+            <div class="menu9"></div>
+                <div class="menuTrabalhe">TRABALHE CONOSCO</div>
+            <div class="menu7"></div>
+                <div class="menuContatos">CONTATOS</div>
+    </div>
+
+
+        <!-- Título -->
+        <div class="tituloUsuario">Usuário</div>
+
+        <!-- Perfil (foto e dados) -->
+        <div class="containerPerfil">
+            <img class="fotoPerfil" src="C:\xampp\htdocs\GreenTech\images\perfil.jpg" alt="pefil">
+        </div>
+
+        <div class="caixaDados"></div>
+        <div class="containerNome"></div>
+        <div class="nome">Nome</div>
+        <div class="joao">João da Silva</div>
+
+        <div class="containerEmail"></div>
+        <div class="email">E-mail</div>
+        <div class="enderecoEmail">joao@email.com</div>
+
+        <div class="containerTelefone"></div>
+        <div class="telefone">Telefone</div>
+        <div class="numero">(11) 99999-9999</div>
+
+        <!-- Caixa Perfil e Texto -->
+        <div class="containerEmpresaG"></div>
+            <div class="containerEmpresaP"></div>
+                <div class="perfilEmp">Perfil empresarial</div>
+                    <div class="lorem1">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
+                    </div>
+
+         <!-- Caixa Serviços e Texto -->
+        <div class="containerServG"></div>
+            <div class="containerServP"></div>
+                <div class="servicos">Serviços e produtos contratados</div>
+                    <div class="lorem2">
+                    Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper.
+                    </div>
+
+        <!-- Opções de conta -->
+        <div class="menuOpcao"></div>
+            <a href="C:\xampp\htdocs\GreenTech\index.php" class="opcao3">• Sair</a>
+            <a href="#" class="opcao2">• Editar perfil</a>
+            <a href="#" class="opcao1">• Alterar pagamento</a>
+
+>>>>>>> Stashed changes
     </main>
 
     <footer class="fixarRodape" class="footer">

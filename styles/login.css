@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 .titulo-usuario{
     position: absolute;
     width: 441px;
@@ -320,6 +321,9 @@
 }
 
 /* menu de opções - geral */
+=======
+/* MENU DE OPÇÕES PRINCIPAL */
+>>>>>>> Stashed changes
 
 .menu1{
     position: absolute;
@@ -574,14 +578,362 @@
     color: #FFFFFF;    
 }
 
+<<<<<<< Updated upstream
 /* menu de opçãos - abaixo */
+=======
+/* DADOS, PERFIL E SERVIÇOS */
+
+.containerPerfil{
+
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    left: 25
+.96%;
+    right: 53.54%;
+    top: 31.05%;
+    bottom: 51.37%;
+    border-radius: 100%;
+    
+    background: #F1F8E9;
+    }
+    
+    .caixaDados{
+    
+    position: absolute;
+    left: 50%;
+    right: 6.32%;
+    top: 31.05%;
+    bottom: 51.37%;
+    
+    background: #F1F8E9;
+    border-radius: 15px;
+    }
+    
+    .containerEmpresaG{
+    
+    position: absolute;
+    left: 33.96%;
+    right: 6.32%;
+    top: 50.49%;
+    bottom: 36.82%;
+    
+    background: #F1F8E9;
+    border-radius: 15px;
+    }
+    
+    .containerServG{
+    
+    position: absolute;
+    left: 33.96%;
+    right: 6.32%;
+    top: 64.94%;
+    bottom: 15.53%;
+    
+    background: #F1F8E9;
+    border-radius: 15px;
+    }
+    
+    .tituloUsuario{
+    
+    position: absolute;
+    width: 441px;
+    height: 63px;
+    left: 489px;
+    top: 227px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 61px;
+    
+    color: #000000;
+    }
+    
+    
+    .containerNome{
+    
+    position: absolute;
+    left: 51.04%;
+    right: 7.29%;
+    top: 34.08%;
+    bottom: 63.48%;
+    
+    background: #CFD8DC;
+    border-radius: 15px;
+    }
+    
+    .conatainerEmpresaP{
+    
+    position: absolute;
+    left: 35.49%;
+    right: 7.92%;
+    top: 53.61%;
+    bottom: 38.09%;
+    
+    background: #CFD8DC;
+    border-radius: 17px;
+    }
+    
+    .containerServP{
+    
+    position: absolute;
+    left: 35.49%;
+    right: 7.92%;
+    top: 69.04%;
+    bottom: 17.29%;
+    
+    background: #CFD8DC;
+    border-radius: 17px;
+    }
+    
+    .containerEmail{
+    
+    position: absolute;
+    left: 51.04%;
+    right: 7.29%;
+    top: 38.57%;
+    bottom: 58.98%;
+    
+    background: #CFD8DC;
+    border-radius: 15px;
+    }
+    
+    .containerTelefone{
+    
+    position: absolute;
+    left: 51.04%;
+    right: 7.29%;
+    top: 43.07%;
+    bottom: 54.49%;
+    
+    background: #CFD8DC;
+    border-radius: 15px;
+    }
+    
+    .nome{
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 735px;
+    top: 330px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    }
+    
+    .servicos{
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 511px;
+    top: 684px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    }
+    
+    .perfilEmp{
+    
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 511px;
+    top: 531px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    }
+    
+    
+    .email{
+    
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 735px;
+    top: 379px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    }
+    
+    
+    .telefone{
+    
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 735px;
+    top: 425px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    }
+    
+    
+    .joao{
+    position: absolute;
+    width: 275px;
+    height: 11px;
+    left: 750px;
+    top: 356px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    
+    color: #717779;
+    }
+    
+    .enderecoEmail{
+    position: absolute;
+    width: 275px;
+    height: 11px;
+    left: 750px;
+    top: 403px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    
+    color: #717779;
+    }
+    
+    .numero{
+    position: absolute;
+    width: 275px;
+    height: 11px;
+    left: 750px;
+    top: 448px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    
+    color: #717779;
+    }
+    
+    .fotoPerfil{
+    position: absolute;
+    width: 166px;
+    height: 164px;
+    left: 496px;
+    top: 326px;
+    background-color: transparent;
+    
+    background: url(image.png);
+    border-radius: 1000px;
+    }
+    
+    .lorem1{
+    position: absolute;
+    width: 790px;
+    height: 85px;
+    left: 524px;
+    top: 548px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    
+    color: #717779;
+    }
+    
+    .lorem2{
+    position: absolute;
+    width: 790px;
+    height: 85px;
+    left: 524px;
+    top: 734px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    
+    color: #717779;
+    }
+
+    /* MENU DE OPÇOES AUXILIAR */
+>>>>>>> Stashed changes
 
 .menuOpcao{
     position: absolute;
     width: 389px;
     height: 189px;
+<<<<<<< Updated upstream
     left: 43px;
     top: 718px;
+=======
+    left: 37px;
+    top: 668px;
+>>>>>>> Stashed changes
 
     background: #F1F8E9;
     border-radius: 56px;    
@@ -591,8 +943,13 @@
     position: absolute;
     width: 255px;
     height: 35px;
+<<<<<<< Updated upstream
     left: 91px;
     top: 813px;
+=======
+    left: 109px;
+    top: 773px;
+>>>>>>> Stashed changes
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -601,6 +958,10 @@
     line-height: 24px;
     display: flex;
     align-items: center;
+<<<<<<< Updated upstream
+=======
+    background-color:var(--corQuart);
+>>>>>>> Stashed changes
 
     color: #000000;
 }
@@ -609,8 +970,13 @@
     position: absolute;
     width: 255px;
     height: 35px;
+<<<<<<< Updated upstream
     left: 91px;
     top: 784px;
+=======
+    left: 109px;
+    top: 744px;
+>>>>>>> Stashed changes
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -619,6 +985,10 @@
     line-height: 24px;
     display: flex;
     align-items: center;
+<<<<<<< Updated upstream
+=======
+    background-color:var(--corQuart);
+>>>>>>> Stashed changes
 
     color: #000000;
 }
@@ -627,8 +997,13 @@
     position: absolute;
     width: 255px;
     height: 35px;
+<<<<<<< Updated upstream
     left: 91px;
     top: 752px;
+=======
+    left: 109px;
+    top: 712px;
+>>>>>>> Stashed changes
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -637,6 +1012,13 @@
     line-height: 24px;
     display: flex;
     align-items: center;
+<<<<<<< Updated upstream
 
     color: #000000;    
 }
+=======
+    background-color:var(--corQuart);
+
+    color: #000000; 
+}   
+>>>>>>> Stashed changes
