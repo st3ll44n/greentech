@@ -263,6 +263,12 @@
     left: 24.96%;
     right: 53.54%;
     top: 30.05%;
+=======
+    left: 25
+.96%;
+    right: 53.54%;
+    top: 31.05%;
+>>>>>>> Stashed changes
     bottom: 51.37%;
     border-radius: 100%;
     
@@ -272,10 +278,15 @@
     .caixaDados{
     
     position: absolute;
+<<<<<<< Updated upstream
     width: 900px;
     height: 160px;
     left: 36%;
     right: 10.32%;
+=======
+    left: 50%;
+    right: 6.32%;
+>>>>>>> Stashed changes
     top: 31.05%;
     bottom: 51.37%;
     
@@ -286,8 +297,13 @@
     .containerEmpresaG{
     
     position: absolute;
+<<<<<<< Updated upstream
     left: 24.96%;
     right: 17.15%;
+=======
+    left: 33.96%;
+    right: 6.32%;
+>>>>>>> Stashed changes
     top: 50.49%;
     bottom: 36.82%;
     
@@ -298,8 +314,13 @@
     .containerServG{
     
     position: absolute;
+<<<<<<< Updated upstream
     left: 24.96%;
     right: 17.15%;
+=======
+    left: 33.96%;
+    right: 6.32%;
+>>>>>>> Stashed changes
     top: 64.94%;
     bottom: 15.53%;
     
@@ -308,11 +329,19 @@
     }
     
     .tituloUsuario{
+<<<<<<< Updated upstream
+=======
+    
+>>>>>>> Stashed changes
     position: absolute;
     width: 441px;
     height: 63px;
     left: 489px;
+<<<<<<< Updated upstream
     top: 205px;
+=======
+    top: 227px;
+>>>>>>> Stashed changes
     
     font-family: 'Montserrat';
     font-style: normal;
@@ -323,12 +352,20 @@
     color: #000000;
     }
     
+<<<<<<< Updated upstream
     .containerNome{
     
     position: absolute;
     width: 850px;
     height: 25px;
     left: 37%;
+=======
+    
+    .containerNome{
+    
+    position: absolute;
+    left: 51.04%;
+>>>>>>> Stashed changes
     right: 7.29%;
     top: 34.08%;
     bottom: 63.48%;
@@ -337,11 +374,19 @@
     border-radius: 15px;
     }
     
+<<<<<<< Updated upstream
     .containerEmpresaP{
     
     position: absolute;
     left: 25.96%;
     right: 18.15%;
+=======
+    .conatainerEmpresaP{
+    
+    position: absolute;
+    left: 35.49%;
+    right: 7.92%;
+>>>>>>> Stashed changes
     top: 53.61%;
     bottom: 38.09%;
     
@@ -352,9 +397,15 @@
     .containerServP{
     
     position: absolute;
+<<<<<<< Updated upstream
     left: 25.96%;
     right: 18.15%;
     top: 67.80%;
+=======
+    left: 35.49%;
+    right: 7.92%;
+    top: 69.04%;
+>>>>>>> Stashed changes
     bottom: 17.29%;
     
     background: #CFD8DC;
@@ -364,9 +415,13 @@
     .containerEmail{
     
     position: absolute;
+<<<<<<< Updated upstream
     width: 850px;
     height: 25px;
     left: 37%;
+=======
+    left: 51.04%;
+>>>>>>> Stashed changes
     right: 7.29%;
     top: 38.57%;
     bottom: 58.98%;
@@ -378,9 +433,13 @@
     .containerTelefone{
     
     position: absolute;
+<<<<<<< Updated upstream
     width: 850px;
     height: 25px;
     left: 37%;
+=======
+    left: 51.04%;
+>>>>>>> Stashed changes
     right: 7.29%;
     top: 43.07%;
     bottom: 54.49%;
@@ -393,8 +452,13 @@
     position: absolute;
     width: 306px;
     height: 12px;
+<<<<<<< Updated upstream
     left: 712px;
     top: 308px;
+=======
+    left: 735px;
+    top: 330px;
+>>>>>>> Stashed changes
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -412,8 +476,13 @@
     position: absolute;
     width: 306px;
     height: 12px;
+<<<<<<< Updated upstream
     left: 505px;
     top: 630px;
+=======
+    left: 511px;
+    top: 684px;
+>>>>>>> Stashed changes
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -428,11 +497,20 @@
     }
     
     .perfilEmp{
+<<<<<<< Updated upstream
     position: absolute;
     width: 306px;
     height: 12px;
     left: 505px;
     top: 495px;
+=======
+    
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 511px;
+    top: 531px;
+>>>>>>> Stashed changes
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -446,13 +524,22 @@
     color: #000000;
     }
     
+<<<<<<< Updated upstream
+=======
+    
+>>>>>>> Stashed changes
     .email{
     
     position: absolute;
     width: 306px;
     height: 12px;
+<<<<<<< Updated upstream
     left: 712px;
     top: 354px;
+=======
+    left: 735px;
+    top: 379px;
+>>>>>>> Stashed changes
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -472,8 +559,13 @@
     position: absolute;
     width: 306px;
     height: 12px;
+<<<<<<< Updated upstream
     left: 712px;
     top: 397px;
+=======
+    left: 735px;
+    top: 425px;
+>>>>>>> Stashed changes
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -492,8 +584,13 @@
     position: absolute;
     width: 275px;
     height: 11px;
+<<<<<<< Updated upstream
     left: 730px;
     top: 331px;
+=======
+    left: 750px;
+    top: 356px;
+>>>>>>> Stashed changes
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -511,8 +608,13 @@
     position: absolute;
     width: 275px;
     height: 11px;
+<<<<<<< Updated upstream
     left: 730px;
     top: 375px;
+=======
+    left: 750px;
+    top: 403px;
+>>>>>>> Stashed changes
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -530,8 +632,13 @@
     position: absolute;
     width: 275px;
     height: 11px;
+<<<<<<< Updated upstream
     left: 730px;
     top: 416px;
+=======
+    left: 750px;
+    top: 448px;
+>>>>>>> Stashed changes
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -547,12 +654,19 @@
     
     .fotoPerfil{
     position: absolute;
+<<<<<<< Updated upstream
     width: 162px;
     height: 162px;
     left: 5.05%;
     right: 53.54%;
     top: 5.05%;
     bottom: 51.37%;
+=======
+    width: 166px;
+    height: 164px;
+    left: 496px;
+    top: 326px;
+>>>>>>> Stashed changes
     background-color: transparent;
     
     background: url(image.png);
@@ -563,8 +677,13 @@
     position: absolute;
     width: 790px;
     height: 85px;
+<<<<<<< Updated upstream
     left: 515px;
     top: 505px;
+=======
+    left: 524px;
+    top: 548px;
+>>>>>>> Stashed changes
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -582,8 +701,13 @@
     position: absolute;
     width: 790px;
     height: 85px;
+<<<<<<< Updated upstream
     left: 515px;
     top: 675px;
+=======
+    left: 524px;
+    top: 734px;
+>>>>>>> Stashed changes
     background-color: transparent;
     
     font-family: 'Montserrat';

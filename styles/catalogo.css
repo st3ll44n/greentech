@@ -1,6 +1,10 @@
 .catalogo-titulo {
     position: absolute;
+<<<<<<< Updated upstream
     top: 180px;
+=======
+    top: 170px;
+>>>>>>> Stashed changes
     left: 60px;
     margin-top: 10px;
 
@@ -37,7 +41,11 @@
     width: 280px;
     height: 280px;
     margin: 20px auto 0 auto;
+<<<<<<< Updated upstream
     background: #FEFBE8;
+=======
+    background: #A5D6A7;
+>>>>>>> Stashed changes
     border-radius: 8px;
 }
 
@@ -56,6 +64,7 @@
     background: #2E7D32;
 
     color: #F1F8E9;
+<<<<<<< Updated upstream
 }
 
 /* IMAGENS */
@@ -123,3 +132,6 @@
     left: 30px;
     top: 0px;
 }
+=======
+}
+>>>>>>> Stashed changes

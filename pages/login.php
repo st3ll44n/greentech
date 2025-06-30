@@ -84,18 +84,27 @@
             <div class="containerEmpresaP"></div>
                 <div class="perfilEmp">Perfil empresarial</div>
                     <div class="lorem1">
+<<<<<<< Updated upstream
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                    </div>
+=======
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
+                    </div>
+>>>>>>> Stashed changes
 
          <!-- Caixa Serviços e Texto -->
         <div class="containerServG"></div>
             <div class="containerServP"></div>
                 <div class="servicos">Serviços e produtos contratados</div>
                     <div class="lorem2">
+<<<<<<< Updated upstream
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                     <br>
                     <br>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+=======
+                    Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper.
+>>>>>>> Stashed changes
                     </div>
 
         <!-- Opções de conta -->
