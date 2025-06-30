@@ -1,4 +1,333 @@
+<<<<<<< HEAD
 /* MENU DE OPÇÕES PRINCIPAL */
+=======
+<<<<<<< Updated upstream
+.titulo-usuario{
+    position: absolute;
+    width: 441px;
+    height: 63px;
+    left: 489px;
+    top: 227px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 61px;
+    
+    color: #000000;    
+}
+  
+  .usuario{    
+    position: absolute;
+    width: 441px;
+    height: 63px;
+    left: 489px;
+    top: 227px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 61px;
+
+    color: #000000;
+}
+
+.container-perfil{
+    position: absolute;
+    left: 33.96%;
+    right: 53.54%;
+    top: 31.05%;
+    bottom: 51.37%;
+    background: #F1F8E9;
+    border-radius: 100%;
+}
+
+.Container1-nome{
+    position: absolute;
+    left: 50%;
+    right: 6.32%;
+    top: 31.05%;
+    bottom: 51.37%;
+
+    background: #F1F8E9;
+    border-radius: 15px;
+}
+
+.Container2.perfil{
+    position: absolute;
+    left: 33.96%;
+    right: 6.32%;
+    top: 50.49%;
+    bottom: 36.82%;
+
+    background: #F1F8E9;
+    border-radius: 15px;    
+}
+
+.Container3.serv{
+    position: absolute;
+    left: 33.96%;
+    right: 6.32%;
+    top: 64.94%;
+    bottom: 15.53%;
+
+    background: #F1F8E9;
+    border-radius: 15px;    
+}
+
+.container1-nome{
+    position: absolute;
+    left: 51.04%;
+    right: 7.29%;
+    top: 34.08%;
+    bottom: 63.48%;
+
+    background: #CFD8DC;
+    border-radius: 15px;
+}
+
+.container2-nome{
+    position: absolute;
+    left: 51.04%;
+    right: 7.29%;
+    top: 38.57%;
+    bottom: 58.98%;
+
+    background: #CFD8DC;
+    border-radius: 15px;
+}
+
+.container3-nome{
+    position: absolute;
+    left: 51.04%;
+    right: 7.29%;
+    top: 43.07%;
+    bottom: 54.49%;
+
+    background: #CFD8DC;
+    border-radius: 15px;    
+}
+
+.container2.perfil{
+    position: absolute;
+    left: 35.49%;
+    right: 7.92%;
+    top: 53.61%;
+    bottom: 38.09%;
+
+    background: #CFD8DC;
+    border-radius: 17px;    
+}
+
+.container3.serv{
+    position: absolute;
+    left: 35.49%;
+    right: 7.92%;
+    top: 69.04%;
+    bottom: 17.29%;
+
+    background: #CFD8DC;
+    border-radius: 17px;    
+}
+
+.nome{
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 735px;
+    top: 330px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;    
+}
+
+.servicos{
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 511px;
+    top: 684px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;    
+}
+
+.perfil{
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 511px;
+    top: 531px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;    
+}
+
+.email{
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 735px;
+    top: 379px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;    
+}
+
+.telefone{
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 735px;
+    top: 425px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;    
+}
+
+.joao{
+    position: absolute;
+    width: 275px;
+    height: 11px;
+    left: 750px;
+    top: 356px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+
+    color: #717779;    
+}
+
+.endereco-email{
+    position: absolute;
+    width: 275px;
+    height: 11px;
+    left: 750px;
+    top: 403px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+
+    color: #717779;    
+}
+
+.numero{
+    position: absolute;
+    width: 275px;
+    height: 11px;
+    left: 750px;
+    top: 448px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+
+    color: #717779;
+}
+
+.imagePerfil{
+    position: absolute;
+    width: 166px;
+    height: 164px;
+    left: 496px;
+    top: 326px;
+
+    background: url(image.png);
+    border-radius: 1000px;    
+}
+
+.lorem1{
+    position: absolute;
+    width: 790px;
+    height: 85px;
+    left: 524px;
+    top: 548px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+
+    color: #717779;    
+    }
+
+.lorem2{
+    position: absolute;
+    width: 790px;
+    height: 85px;
+    left: 524px;
+    top: 734px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+
+    color: #717779;    
+}
+
+/* menu de opções - geral */
+=======
+/* MENU DE OPÇÕES PRINCIPAL */
+>>>>>>> Stashed changes
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
 
 .menu1{
     position: absolute;
@@ -253,6 +582,12 @@
     color: #FFFFFF;    
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+/* menu de opçãos - abaixo */
+=======
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
 /* DADOS, PERFIL E SERVIÇOS */
 
 .containerPerfil{
@@ -260,16 +595,22 @@
     position: absolute;
     width: 180px;
     height: 180px;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     left: 24.96%;
     right: 53.54%;
     top: 30.05%;
 =======
+=======
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     left: 25
 .96%;
     right: 53.54%;
     top: 31.05%;
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     bottom: 51.37%;
     border-radius: 100%;
     
@@ -279,6 +620,7 @@
     .caixaDados{
     
     position: absolute;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     width: 900px;
     height: 160px;
@@ -288,6 +630,10 @@
     left: 50%;
     right: 6.32%;
 >>>>>>> Stashed changes
+=======
+    left: 50%;
+    right: 6.32%;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     top: 31.05%;
     bottom: 51.37%;
     
@@ -298,6 +644,7 @@
     .containerEmpresaG{
     
     position: absolute;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     left: 24.96%;
     right: 17.15%;
@@ -305,6 +652,10 @@
     left: 33.96%;
     right: 6.32%;
 >>>>>>> Stashed changes
+=======
+    left: 33.96%;
+    right: 6.32%;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     top: 50.49%;
     bottom: 36.82%;
     
@@ -315,6 +666,7 @@
     .containerServG{
     
     position: absolute;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     left: 24.96%;
     right: 17.15%;
@@ -322,6 +674,10 @@
     left: 33.96%;
     right: 6.32%;
 >>>>>>> Stashed changes
+=======
+    left: 33.96%;
+    right: 6.32%;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     top: 64.94%;
     bottom: 15.53%;
     
@@ -330,19 +686,27 @@
     }
     
     .tituloUsuario{
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
     
 >>>>>>> Stashed changes
+=======
+    
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     position: absolute;
     width: 441px;
     height: 63px;
     left: 489px;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     top: 205px;
 =======
     top: 227px;
 >>>>>>> Stashed changes
+=======
+    top: 227px;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     
     font-family: 'Montserrat';
     font-style: normal;
@@ -353,6 +717,7 @@
     color: #000000;
     }
     
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     .containerNome{
     
@@ -361,12 +726,17 @@
     height: 25px;
     left: 37%;
 =======
+=======
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     
     .containerNome{
     
     position: absolute;
     left: 51.04%;
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     right: 7.29%;
     top: 34.08%;
     bottom: 63.48%;
@@ -375,6 +745,7 @@
     border-radius: 15px;
     }
     
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     .containerEmpresaP{
     
@@ -382,12 +753,17 @@
     left: 25.96%;
     right: 18.15%;
 =======
+=======
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     .conatainerEmpresaP{
     
     position: absolute;
     left: 35.49%;
     right: 7.92%;
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     top: 53.61%;
     bottom: 38.09%;
     
@@ -398,6 +774,7 @@
     .containerServP{
     
     position: absolute;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     left: 25.96%;
     right: 18.15%;
@@ -407,6 +784,11 @@
     right: 7.92%;
     top: 69.04%;
 >>>>>>> Stashed changes
+=======
+    left: 35.49%;
+    right: 7.92%;
+    top: 69.04%;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     bottom: 17.29%;
     
     background: #CFD8DC;
@@ -416,6 +798,7 @@
     .containerEmail{
     
     position: absolute;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     width: 850px;
     height: 25px;
@@ -423,6 +806,9 @@
 =======
     left: 51.04%;
 >>>>>>> Stashed changes
+=======
+    left: 51.04%;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     right: 7.29%;
     top: 38.57%;
     bottom: 58.98%;
@@ -434,6 +820,7 @@
     .containerTelefone{
     
     position: absolute;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     width: 850px;
     height: 25px;
@@ -441,6 +828,9 @@
 =======
     left: 51.04%;
 >>>>>>> Stashed changes
+=======
+    left: 51.04%;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     right: 7.29%;
     top: 43.07%;
     bottom: 54.49%;
@@ -453,6 +843,7 @@
     position: absolute;
     width: 306px;
     height: 12px;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     left: 712px;
     top: 308px;
@@ -460,6 +851,10 @@
     left: 735px;
     top: 330px;
 >>>>>>> Stashed changes
+=======
+    left: 735px;
+    top: 330px;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -477,6 +872,7 @@
     position: absolute;
     width: 306px;
     height: 12px;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     left: 505px;
     top: 630px;
@@ -484,6 +880,10 @@
     left: 511px;
     top: 684px;
 >>>>>>> Stashed changes
+=======
+    left: 511px;
+    top: 684px;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -498,6 +898,7 @@
     }
     
     .perfilEmp{
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     position: absolute;
     width: 306px;
@@ -505,13 +906,18 @@
     left: 505px;
     top: 495px;
 =======
+=======
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     
     position: absolute;
     width: 306px;
     height: 12px;
     left: 511px;
     top: 531px;
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -525,15 +931,20 @@
     color: #000000;
     }
     
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
     
 >>>>>>> Stashed changes
+=======
+    
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     .email{
     
     position: absolute;
     width: 306px;
     height: 12px;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     left: 712px;
     top: 354px;
@@ -541,6 +952,10 @@
     left: 735px;
     top: 379px;
 >>>>>>> Stashed changes
+=======
+    left: 735px;
+    top: 379px;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -560,6 +975,7 @@
     position: absolute;
     width: 306px;
     height: 12px;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     left: 712px;
     top: 397px;
@@ -567,6 +983,10 @@
     left: 735px;
     top: 425px;
 >>>>>>> Stashed changes
+=======
+    left: 735px;
+    top: 425px;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -585,6 +1005,7 @@
     position: absolute;
     width: 275px;
     height: 11px;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     left: 730px;
     top: 331px;
@@ -592,6 +1013,10 @@
     left: 750px;
     top: 356px;
 >>>>>>> Stashed changes
+=======
+    left: 750px;
+    top: 356px;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -609,6 +1034,7 @@
     position: absolute;
     width: 275px;
     height: 11px;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     left: 730px;
     top: 375px;
@@ -616,6 +1042,10 @@
     left: 750px;
     top: 403px;
 >>>>>>> Stashed changes
+=======
+    left: 750px;
+    top: 403px;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -633,6 +1063,7 @@
     position: absolute;
     width: 275px;
     height: 11px;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     left: 730px;
     top: 416px;
@@ -640,6 +1071,10 @@
     left: 750px;
     top: 448px;
 >>>>>>> Stashed changes
+=======
+    left: 750px;
+    top: 448px;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -655,6 +1090,7 @@
     
     .fotoPerfil{
     position: absolute;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     width: 162px;
     height: 162px;
@@ -663,11 +1099,16 @@
     top: 5.05%;
     bottom: 51.37%;
 =======
+=======
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     width: 166px;
     height: 164px;
     left: 496px;
     top: 326px;
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     background: url(image.png);
@@ -678,6 +1119,7 @@
     position: absolute;
     width: 790px;
     height: 85px;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     left: 515px;
     top: 505px;
@@ -685,6 +1127,10 @@
     left: 524px;
     top: 548px;
 >>>>>>> Stashed changes
+=======
+    left: 524px;
+    top: 548px;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -702,6 +1148,7 @@
     position: absolute;
     width: 790px;
     height: 85px;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     left: 515px;
     top: 675px;
@@ -709,6 +1156,10 @@
     left: 524px;
     top: 734px;
 >>>>>>> Stashed changes
+=======
+    left: 524px;
+    top: 734px;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -723,13 +1174,27 @@
     }
 
     /* MENU DE OPÇOES AUXILIAR */
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
 
 .menuOpcao{
     position: absolute;
     width: 389px;
     height: 189px;
+<<<<<<< HEAD
     left: 37px;
     top: 668px;
+=======
+<<<<<<< Updated upstream
+    left: 43px;
+    top: 718px;
+=======
+    left: 37px;
+    top: 668px;
+>>>>>>> Stashed changes
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
 
     background: #F1F8E9;
     border-radius: 56px;    
@@ -739,8 +1204,18 @@
     position: absolute;
     width: 255px;
     height: 35px;
+<<<<<<< HEAD
     left: 109px;
     top: 773px;
+=======
+<<<<<<< Updated upstream
+    left: 91px;
+    top: 813px;
+=======
+    left: 109px;
+    top: 773px;
+>>>>>>> Stashed changes
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -749,7 +1224,14 @@
     line-height: 24px;
     display: flex;
     align-items: center;
+<<<<<<< HEAD
     background-color:var(--corQuart);
+=======
+<<<<<<< Updated upstream
+=======
+    background-color:var(--corQuart);
+>>>>>>> Stashed changes
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
 
     color: #000000;
 }
@@ -758,8 +1240,18 @@
     position: absolute;
     width: 255px;
     height: 35px;
+<<<<<<< HEAD
     left: 109px;
     top: 744px;
+=======
+<<<<<<< Updated upstream
+    left: 91px;
+    top: 784px;
+=======
+    left: 109px;
+    top: 744px;
+>>>>>>> Stashed changes
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -768,7 +1260,14 @@
     line-height: 24px;
     display: flex;
     align-items: center;
+<<<<<<< HEAD
     background-color:var(--corQuart);
+=======
+<<<<<<< Updated upstream
+=======
+    background-color:var(--corQuart);
+>>>>>>> Stashed changes
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
 
     color: #000000;
 }
@@ -777,8 +1276,18 @@
     position: absolute;
     width: 255px;
     height: 35px;
+<<<<<<< HEAD
     left: 109px;
     top: 712px;
+=======
+<<<<<<< Updated upstream
+    left: 91px;
+    top: 752px;
+=======
+    left: 109px;
+    top: 712px;
+>>>>>>> Stashed changes
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -787,7 +1296,20 @@
     line-height: 24px;
     display: flex;
     align-items: center;
+<<<<<<< HEAD
     background-color:var(--corQuart);
 
     color: #000000; 
 }   
+=======
+<<<<<<< Updated upstream
+
+    color: #000000;    
+}
+=======
+    background-color:var(--corQuart);
+
+    color: #000000; 
+}   
+>>>>>>> Stashed changes
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37

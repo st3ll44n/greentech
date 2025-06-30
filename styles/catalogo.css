@@ -1,10 +1,14 @@
 .catalogo-titulo {
     position: absolute;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     top: 180px;
 =======
     top: 170px;
 >>>>>>> Stashed changes
+=======
+    top: 170px;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     left: 60px;
     margin-top: 10px;
 
@@ -41,11 +45,15 @@
     width: 280px;
     height: 280px;
     margin: 20px auto 0 auto;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     background: #FEFBE8;
 =======
     background: #A5D6A7;
 >>>>>>> Stashed changes
+=======
+    background: #A5D6A7;
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     border-radius: 8px;
 }
 
@@ -64,6 +72,7 @@
     background: #2E7D32;
 
     color: #F1F8E9;
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 }
 
@@ -135,3 +144,6 @@
 =======
 }
 >>>>>>> Stashed changes
+=======
+}
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37

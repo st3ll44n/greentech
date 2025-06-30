@@ -32,6 +32,13 @@
         </nav>
     </header>
 
+        <nav>
+            <a class="home" href="C:\xampp\htdocs\GreenTech\index.php">Home</a>
+            <a class="catalogo" href="catalogo.php">Catálogo</a>
+            <a class="login" href="login.php">Login</a>
+        </nav>
+
+    </header>
     <main>
     <div class="catalogo-titulo">Catálogo</div>
 
@@ -39,11 +46,15 @@
         <!-- Bloco 1 -->
         <div class="servico-produto">
             <div class="servico-frame">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
                 <img class="consultoria" src="C:\xampp\htdocs\GreenTech\images\consultoria em sust.png" alt="Consultoria" />
 =======
                 <!-- <img src="..." alt="Consultoria" /> -->
 >>>>>>> Stashed changes
+=======
+                <!-- <img src="..." alt="Consultoria" /> -->
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
             </div>
             <div class="servico-nome">Consultoria em Sustentabilidade Corporativa</div>
         </div>
@@ -51,11 +62,15 @@
         <!-- Bloco 2 -->
         <div class="servico-produto">
             <div class="servico-frame">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
                 <img class="solucoes" src="C:\xampp\htdocs\GreenTech\images\solucoes.png" alt="Energia Renovável" />
 =======
                 <!-- <img src="..." alt="Energia Renovável" /> -->
 >>>>>>> Stashed changes
+=======
+                <!-- <img src="..." alt="Energia Renovável" /> -->
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
             </div>
             <div class="servico-nome">Soluções de Energia Renovável</div>
         </div>
@@ -63,11 +78,15 @@
         <!-- Bloco 3 -->
         <div class="servico-produto">
             <div class="servico-frame">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
                 <img class="gestaoMonitoramento" src="C:\xampp\htdocs\GreenTech\images\gestao e monitoramento.png" alt="Emissões de Carbono" />
 =======
                 <!-- <img src="..." alt="Emissões de Carbono" /> -->
 >>>>>>> Stashed changes
+=======
+                <!-- <img src="..." alt="Emissões de Carbono" /> -->
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
             </div>
             <div class="servico-nome">Gestão e Monitoramento de Emissões de Carbono</div>
         </div>
@@ -75,11 +94,15 @@
         <!-- Bloco 4 -->
         <div class="servico-produto">
             <div class="servico-frame">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
                 <img class="sistemas" src="C:\xampp\htdocs\GreenTech\images\sistemas inteligentes.png" alt="Eficiência Energética" />
 =======
                 <!-- <img src="..." alt="Eficiência Energética" /> -->
 >>>>>>> Stashed changes
+=======
+                <!-- <img src="..." alt="Eficiência Energética" /> -->
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
             </div>
             <div class="servico-nome">Sistemas Inteligentes de Eficiência Energética</div>
         </div>
@@ -87,11 +110,15 @@
         <!-- Bloco 5 -->
         <div class="servico-produto">
             <div class="servico-frame">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
                 <img class="gestaoResiduos" src="C:\xampp\htdocs\GreenTech\images\gestao de residuos.png" alt="Resíduos" />
 =======
                 <!-- <img src="..." alt="Resíduos" /> -->
 >>>>>>> Stashed changes
+=======
+                <!-- <img src="..." alt="Resíduos" /> -->
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
             </div>
             <div class="servico-nome">Gestão de Resíduos e Reciclagem Industrial</div>
         </div>
@@ -99,11 +126,15 @@
         <!-- Bloco 6 -->
         <div class="servico-produto">
             <div class="servico-frame">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
                 <img class="tecnologia" src="C:\xampp\htdocs\GreenTech\images\tecnologiapara reuso.png" alt="Reuso de Água" />
 =======
                 <!-- <img src="..." alt="Reuso de Água" /> -->
 >>>>>>> Stashed changes
+=======
+                <!-- <img src="..." alt="Reuso de Água" /> -->
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
             </div>
             <div class="servico-nome">Tecnologia para Reuso de Água</div>
         </div>
@@ -111,11 +142,15 @@
         <!-- Bloco 7 -->
         <div class="servico-produto">
             <div class="servico-frame">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
                 <img class="plataformas" src="C:\xampp\htdocs\GreenTech\images\plataformas de relatorios.png" alt="ESG" />
 =======
                 <!-- <img src="..." alt="ESG" /> -->
 >>>>>>> Stashed changes
+=======
+                <!-- <img src="..." alt="ESG" /> -->
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
             </div>
             <div class="servico-nome">Plataformas de Relatórios ESG e Certificações Ambientais</div>
         </div>
@@ -123,20 +158,27 @@
         <!-- Bloco 8 -->
         <div class="servico-produto">
             <div class="servico-frame">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
                 <img class="campanhas" src="C:\xampp\htdocs\GreenTech\images\capanhas de educação.png" alt="Educação Ambiental" />
 =======
                 <!-- <img src="..." alt="Educação Ambiental" /> -->
 >>>>>>> Stashed changes
+=======
+                <!-- <img src="..." alt="Educação Ambiental" /> -->
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
             </div>
             <div class="servico-nome">Campanhas de Educação Ambiental e Engajamento Interno</div>
         </div>
     </div>
     <br>
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     </main> 
 =======
+=======
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     </main>
 >>>>>>> Stashed changes
 

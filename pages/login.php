@@ -34,7 +34,84 @@
 
     </header>
 
+        <nav>
+            <a class="home" href="C:\xampp\htdocs\GreenTech\index.php">Home</a>
+            <a class="catalogo" href="catalogo.php">Catálogo</a>
+            <a class="login" href="login.php">Login</a>
+        </nav>
+
+    </header>
     <main>
+<<<<<<< Updated upstream
+        <!-- Título -->
+        <div class="titulo-usuario">Usuário</div>
+
+        <!-- Containers principais -->
+        <div class="container-perfil"></div>
+        <div class="Container1-nome"></div>
+        <div class="Container2 perfil"></div>
+        <div class="Container3 serv"></div>
+
+        <!-- Campos Nome, Email, Telefone -->
+        <div class="container1-nome"></div>
+        <div class="container2-nome"></div>
+        <div class="container3-nome"></div>
+
+        <div class="nome">Nome</div>
+        <div class="joao">João da Silva</div>
+
+        <div class="email">E-mail</div>
+        <div class="endereco-email">joao@email.com</div>
+
+        <div class="telefone">Telefone</div>
+        <div class="numero">(11) 99999-9999</div>
+
+        <!-- Imagem de perfil -->
+        <div class="imagePerfil"></div>
+
+        <!-- Texto explicativo -->
+        <div class="perfil">Perfil</div>
+        <div class="lorem1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</div>
+
+        <div class="servicos">Serviços</div>
+        <div class="lorem2">Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper.</div>
+
+        <!-- Menu Lateral -->
+        <div style="position: absolute; width: 389px; height: 468px; left: 33px; top: 177px;">
+            <div class="menu1"></div>
+
+        <div class="menu2"></div>
+            <div class="menu menu">MENU</div>
+
+        <div class="menu3"></div>
+            <div class="menuPromo">PROMOÇÃO</div>
+
+        <div class="menu4"></div>
+            <div class="menuSist">SISTEMAS SUSTENTÁVEIS</div>
+
+        <div class="menu5"></div>
+            <div class="menuInsta">INSTALAÇÕES</div>
+
+        <div class="menu6"></div>
+            <div class="menuServiços">SERVIÇOS</div>
+
+        <div class="menu8"></div>
+            <div class="menuSobre">SOBRE NÓS</div>
+
+        <div class="menu9"></div>
+            <div class="menuTrabalhe">TRABALHE CONOSCO</div>
+
+        <div class="menu7"></div>
+            <div class="menuContatos">CONTATOS</div>
+        </div>
+
+        <!-- Menu de opções inferior -->
+        <div class="menuOpcao">
+        <div class="opcao1">Opção 1</div>
+        <div class="opcao2">Opção 2</div>
+        <div class="opcao3">Opção 3</div>
+        </div>
+=======
         
     <!-- Menu Lateral -->
     <div style="position: absolute; width: 389px; height: 468px; left: 33px; top: 177px;">
@@ -84,6 +161,7 @@
             <div class="containerEmpresaP"></div>
                 <div class="perfilEmp">Perfil empresarial</div>
                     <div class="lorem1">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                    </div>
@@ -91,12 +169,17 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
                     </div>
 >>>>>>> Stashed changes
+=======
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
+                    </div>
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
 
          <!-- Caixa Serviços e Texto -->
         <div class="containerServG"></div>
             <div class="containerServP"></div>
                 <div class="servicos">Serviços e produtos contratados</div>
                     <div class="lorem2">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                     <br>
@@ -105,6 +188,9 @@
 =======
                     Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper.
 >>>>>>> Stashed changes
+=======
+                    Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper.
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
                     </div>
 
         <!-- Opções de conta -->
@@ -113,6 +199,10 @@
             <a href="#" class="opcao2">• Editar perfil</a>
             <a href="#" class="opcao1">• Alterar pagamento</a>
 
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+>>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     </main>
 
     <footer class="fixarRodape" class="footer">
