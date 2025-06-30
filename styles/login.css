@@ -1,0 +1,668 @@
+/* MENU DE OPÇÕES PRINCIPAL */
+
+.menu1{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #F1F8E9;
+    border-radius: 56px;
+}
+
+.menu2{
+    position: absolute;
+    left: 7.46%;
+    right: 7.46%;
+    top: 10.47%;
+    bottom: 82.48%;
+
+    background: #00796B;
+    border-radius: 30px;    
+}
+
+.menu3{
+    position: absolute;
+    left: 22.62%;
+    right: 21.85%;
+    top: 22.65%;
+    bottom: 70.3%;
+
+    background: #00796B;
+    border-radius: 30px;
+}
+
+.menu4{
+    position: absolute;
+    left: 22.62%;
+    right: 21.85%;
+    top: 31.41%;
+    bottom: 57.91%;
+
+    background: #00796B;
+    border-radius: 30px;   
+}
+
+.menu5{
+    position: absolute;
+    left: 22.62%;
+    right: 21.85%;
+    top: 43.8%;
+    bottom: 49.15%;
+
+    background: #00796B;
+    border-radius: 30px;    
+}
+
+.menu6{
+    position: absolute;
+    left: 22.62%;
+    right: 21.85%;
+    top: 52.56%;
+    bottom: 40.38%;
+
+    background: #00796B;
+    border-radius: 30px;
+}
+
+.menu7{
+    position: absolute;
+    left: 22.62%;
+    right: 21.85%;
+    top: 82.48%;
+    bottom: 10.47%;
+
+    background: #00796B;
+    border-radius: 30px;    
+}
+
+.menu8{
+    position: absolute;
+    left: 22.62%;
+    right: 21.85%;
+    top: 61.32%;
+    bottom: 31.62%;
+
+    background: #00796B;
+    border-radius: 30px;    
+}
+
+.menu9{
+    position: absolute;
+    left: 22.62%;
+    right: 21.85%;
+    top: 70.09%;
+    bottom: 19.23%;
+
+    background: #00796B;
+    border-radius: 30px;    
+}
+
+.menu{
+    position: absolute;
+    left: 24.94%;
+    right: 24.68%;
+    top: 11.75%;
+    bottom: 83.97%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    background-color: var(--corQuin);
+
+    color: #FFFFFF;    
+}
+
+.menuPromo{
+    position: absolute;
+    left: 25.19%;
+    right: 24.42%;
+    top: 23.93%;
+    bottom: 71.79%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    background-color: var(--corQuin);
+
+    color: #FFFFFF;    
+}
+
+.menuContatos{
+    position: absolute;
+    left: 25.19%;
+    right: 24.42%;
+    top: 83.97%;
+    bottom: 11.75%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    background-color: var(--corQuin);
+
+    color: #FFFFFF;    
+}
+
+.menuInsta{
+    position: absolute;
+    left: 25.19%;
+    right: 24.42%;
+    top: 45.09%;
+    bottom: 50.64%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    background-color: var(--corQuin);
+
+    color: #FFFFFF;    
+}
+
+.menuServiços{
+    position: absolute;
+    left: 25.19%;
+    right: 24.42%;
+    top: 53.85%;
+    bottom: 41.88%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    background-color: var(--corQuin);
+
+    color: #FFFFFF;    
+}
+
+.menuSobre{
+    position: absolute;
+    left: 25.19%;
+    right: 24.42%;
+    top: 62.61%;
+    bottom: 33.12%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    background-color: var(--corQuin);
+
+    color: #FFFFFF;    
+}
+
+.menuTrabalhe{
+    position: absolute;
+    left: 25.19%;
+    right: 24.42%;
+    top: 73.29%;
+    bottom: 22.44%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: var(--corQuin);
+
+    color: #FFFFFF;    
+}
+
+.menuSist{
+    position: absolute;
+    left: 25.19%;
+    right: 24.42%;
+    top: 34.62%;
+    bottom: 61.11%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: var(--corQuin);
+
+    color: #FFFFFF;    
+}
+
+/* DADOS, PERFIL E SERVIÇOS */
+
+.containerPerfil{
+
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    left: 24.96%;
+    right: 53.54%;
+    top: 30.05%;
+    bottom: 51.37%;
+    border-radius: 100%;
+    
+    background: #F1F8E9;
+    }
+    
+    .caixaDados{
+    
+    position: absolute;
+    width: 900px;
+    height: 160px;
+    left: 36%;
+    right: 10.32%;
+    top: 31.05%;
+    bottom: 51.37%;
+    
+    background: #F1F8E9;
+    border-radius: 15px;
+    }
+    
+    .containerEmpresaG{
+    
+    position: absolute;
+    left: 24.96%;
+    right: 17.15%;
+    top: 50.49%;
+    bottom: 36.82%;
+    
+    background: #F1F8E9;
+    border-radius: 15px;
+    }
+    
+    .containerServG{
+    
+    position: absolute;
+    left: 24.96%;
+    right: 17.15%;
+    top: 64.94%;
+    bottom: 15.53%;
+    
+    background: #F1F8E9;
+    border-radius: 15px;
+    }
+    
+    .tituloUsuario{
+    position: absolute;
+    width: 441px;
+    height: 63px;
+    left: 489px;
+    top: 205px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 61px;
+    
+    color: #000000;
+    }
+    
+    .containerNome{
+    
+    position: absolute;
+    width: 850px;
+    height: 25px;
+    left: 37%;
+    right: 7.29%;
+    top: 34.08%;
+    bottom: 63.48%;
+    
+    background: #CFD8DC;
+    border-radius: 15px;
+    }
+    
+    .containerEmpresaP{
+    
+    position: absolute;
+    left: 25.96%;
+    right: 18.15%;
+    top: 53.61%;
+    bottom: 38.09%;
+    
+    background: #CFD8DC;
+    border-radius: 17px;
+    }
+    
+    .containerServP{
+    
+    position: absolute;
+    left: 25.96%;
+    right: 18.15%;
+    top: 67.80%;
+    bottom: 17.29%;
+    
+    background: #CFD8DC;
+    border-radius: 17px;
+    }
+    
+    .containerEmail{
+    
+    position: absolute;
+    width: 850px;
+    height: 25px;
+    left: 37%;
+    right: 7.29%;
+    top: 38.57%;
+    bottom: 58.98%;
+    
+    background: #CFD8DC;
+    border-radius: 15px;
+    }
+    
+    .containerTelefone{
+    
+    position: absolute;
+    width: 850px;
+    height: 25px;
+    left: 37%;
+    right: 7.29%;
+    top: 43.07%;
+    bottom: 54.49%;
+    
+    background: #CFD8DC;
+    border-radius: 15px;
+    }
+    
+    .nome{
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 712px;
+    top: 308px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    }
+    
+    .servicos{
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 505px;
+    top: 630px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    }
+    
+    .perfilEmp{
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 505px;
+    top: 495px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    }
+    
+    .email{
+    
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 712px;
+    top: 354px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    }
+    
+    
+    .telefone{
+    
+    position: absolute;
+    width: 306px;
+    height: 12px;
+    left: 712px;
+    top: 397px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    }
+    
+    
+    .joao{
+    position: absolute;
+    width: 275px;
+    height: 11px;
+    left: 730px;
+    top: 331px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    
+    color: #717779;
+    }
+    
+    .enderecoEmail{
+    position: absolute;
+    width: 275px;
+    height: 11px;
+    left: 730px;
+    top: 375px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    
+    color: #717779;
+    }
+    
+    .numero{
+    position: absolute;
+    width: 275px;
+    height: 11px;
+    left: 730px;
+    top: 416px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    
+    color: #717779;
+    }
+    
+    .fotoPerfil{
+    position: absolute;
+    width: 162px;
+    height: 162px;
+    left: 5.05%;
+    right: 53.54%;
+    top: 5.05%;
+    bottom: 51.37%;
+    background-color: transparent;
+    
+    background: url(image.png);
+    border-radius: 1000px;
+    }
+    
+    .lorem1{
+    position: absolute;
+    width: 790px;
+    height: 85px;
+    left: 515px;
+    top: 505px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    
+    color: #717779;
+    }
+    
+    .lorem2{
+    position: absolute;
+    width: 790px;
+    height: 85px;
+    left: 515px;
+    top: 675px;
+    background-color: transparent;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    
+    color: #717779;
+    }
+
+    /* MENU DE OPÇOES AUXILIAR */
+
+.menuOpcao{
+    position: absolute;
+    width: 389px;
+    height: 189px;
+    left: 37px;
+    top: 668px;
+
+    background: #F1F8E9;
+    border-radius: 56px;    
+}
+
+.opcao1{
+    position: absolute;
+    width: 255px;
+    height: 35px;
+    left: 109px;
+    top: 773px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    background-color:var(--corQuart);
+
+    color: #000000;
+}
+
+.opcao2{
+    position: absolute;
+    width: 255px;
+    height: 35px;
+    left: 109px;
+    top: 744px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    background-color:var(--corQuart);
+
+    color: #000000;
+}
+
+.opcao3{
+    position: absolute;
+    width: 255px;
+    height: 35px;
+    left: 109px;
+    top: 712px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    background-color:var(--corQuart);
+
+    color: #000000; 
+}   

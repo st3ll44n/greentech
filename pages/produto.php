@@ -4,29 +4,37 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Produto</title>
-    <link rel="stylesheet" href="styles/all.css">
-        <style>
+    <link rel="shortcut icon" type="imagex/png" href="C:\xampp\htdocs\GreenTech\images\image-3.ico">
+    <link rel="stylesheet" href="C:\xampp\htdocs\GreenTech\styles\all.css">
+    <title>Produto</title> 
+
+    <style>
             @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-        </style>    
+    </style>    
 <body>
 
     <header class="header">
         <div class="retanguloHeader"></div>
-        <div class="logo"></div>
+        <div class="Logo">
+            <img src="C:\xampp\htdocs\GreenTech\images\logo.svg" alt="Logo GreenTech" class="logo" />
+        </div>
 
         <div class="retangulo1"></div>
         <div class="retangulo2"></div>
         <div class="retangulo3"></div>
 
         <h1 class="greentech">GreenTech</h1>
-        <div class="login">LOGIN</div>
-        <div class="home">HOME</div>
-        <div class="catalogo">CATÁLOGO</div>
+
+        <nav>
+        <a class="home" href="C:\xampp\htdocs\GreenTech\index.php">Home</a>
+            <a class="catalogo" href="C:\xampp\htdocs\GreenTech\pages\catalogo.php">Catálogo</a>
+            <a class="login" href="C:\xampp\htdocs\GreenTech\pages\login.php">Login</a>
+        </nav>
+
     </header>
 
     <main>
-        
+
     </main>
 
     <footer class="footer">

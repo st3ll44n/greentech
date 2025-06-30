@@ -18,190 +18,150 @@
     --corQuin: #00796B;
 }
 
-/* HEADER */
+    /* HEADER */
 
-header{
-    position: relative;
-    width: 1440px;
-    height: 150px;
-}
+    .header {
+        position: relative;
+        width: 100%;
+        height: 150px;
+        background-color: var(--corSec);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 2vw;
+        box-sizing: border-box;
+        flex-wrap: wrap; /* Para quebrar em telas pequenas */
+    }
 
-    .retanguloHeader{ 
+    .Logo {
         position: absolute;
-        left: 0%;
-        right: 0%;
-        top: 0%;
-        bottom: 0%;
+        left: 4.93%;
+        right: 90.21%;
+        top: 26.67%;
+        bottom: 26.67%;
+      
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: transparent;
+    }
+      
+    .logo {
+        width: 100%;
+        object-fit: contain; /* mantém proporção da imagem */
+        background: transparent;
+    }
+      
+    .greentech {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+        font-size: 3vw;
+        color: var(--corQuart);
+
+        background-color: var(--corSec);
+        text-align: center;
+        position: absolute;
+        left: 190px;
+        margin: 0 20px;
+        min-width: 150px;
+    }
+    
+    nav {
+        display: flex;
+        gap: 15px;
+        flex-shrink: 0;
+        background-color: var(--corSec);
+    }
+    
+    nav a {
+        background-color: var(--corTerc);
+        color: #000;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+        font-size: 1.1rem;
+        padding: 5px 15px;
+        border-radius: 15px;
+        text-decoration: none;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 90px;
+        transition: 0.3s ease;
+    }
+    
+    /* Ajustes para telas pequenas */
+    @media (max-width: 600px) {
+        header.header {
+        height: auto;
+        flex-direction: column;
+        padding: 10px;
+        }
+    
+        .greentech {
+        font-size: 6vw;
+        margin: 10px 0;
+        }
+    
+        nav {
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 10px;
+        }
+    
+        nav a {
+        font-size: 1rem;
+        padding: 8px 12px;
+        min-width: auto;
+        flex-grow: 1;
+        justify-content: center;
+        }
+    }
+  
+
+    /* FOOTER */
+
+    footer{
+        position: relative;
+        width: 100%;
+        height: 75px;
         background-color: var(--corSec)
     }
 
-    .logo{
-        position: absolute;
-        left: 3.89%;
-        right: 89.17%;
-        top: 16.67%;
-        bottom: 16.67%;
-        background: var(--corTerc);
-        border-radius: 100px;
-    }
+        .retanguloFooter{
 
-    .retangulo1{
-        position: absolute;
-        left: 82.85%;
-        right: 3.26%;
-        top: 34.67%;
-        bottom: 35.33%;
-        background: var(--corTerc);
-        border-radius: 15px;
-    }
+            position: absolute;
+            left: 29.17%;
+            right: 29.17%;
+            top: 33.33%;
+            bottom: 33.33%;
+            
+            background: var(--corQuart);
+            border-radius: 15px;
+        }
 
-    .retangulo2{
-        position: absolute;
-        left: 67.08%;
-        right: 19.03%;
-        top: 34.67%;
-        bottom: 35.33%;
-        background: var(--corTerc);
-        border-radius: 15px;
-    }
+        .direitos{
+            position: absolute;
+            left: 29.86%;
+            right: 30.21%;
+            top: 34.67%;
+            bottom: 33.33%;
 
-    .retangulo3{
-        position: absolute;
-        left: 51.32%;
-        right: 34.79%;
-        top: 34.67%;
-        bottom: 35.33%;        
-        background: var(--corTerc);
-        border-radius: 15px;
-    }
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 20px;
+            line-height: 24px;
+            align-items: center;
+            text-align: center;
+            background-color: var(--corQuart);
+            color: #000000;
+        }
 
-    .greentech{
-        position: absolute;
-        width: 284px;
-        left: 194px;
-        top: 36%;
-        bottom: 36%;
-        
-        font-family: 'Montserrat';
-        font-style: normal;
-        font-weight: 600;
-        font-size: 50px;
-        line-height: 61px;
-        background-color: var(--corSec);
-        align-items: center;
-        text-align: center;
-        
-        color: var(--corQuart);
-    }
-
-    .login{
-        position: absolute;
-        width: 149px;
-        height: 30px;
-        left: calc(50% - 149px/2 + 345.5px);
-        top: calc(50% - 30px/2);
-        
-        font-family: 'Montserrat';
-        font-style: normal;
-        font-weight: 600;
-        font-size: 25px;
-        line-height: 30px;
-
-       /* display: flex;  NÃO EXISTE DISPLAY FLEX COM EESAS 
-       OUTRAS 2 FUNCIONALIDADES ABAIXO, 
-       ELAS NÃO PODEM ESTAR JUNTAS TONHONAAAAAAAAAA
-       
-       COMO VC COLOCOU BACKGROUND COLOR NA PAGINA TOTAL,
-        VC PRECISA DEFINIR A COR DAS DIVS QUE VC TA CRIANDO, 
-        ATE PQ AS MESMAS SÃO APENAS QUADRADOS SEM PLANO DE FUNDO 
-        LOGOOOO ELAS FICAM COM A COR DE FUNDO PRINCIPAL QUE VC 
-        DEFINIU LA NO BODY ENTÃOOOOOOOOO VC PRECISAR DEFINIR A COR QUE VC QUER;
-       
-       */
-       
-        align-items: center;
-        text-align: center;
-        background-color: var(--corTerc);
-        color: #000000;
-    }
-
-    .home{
-        position: absolute;
-        width: 149px;
-        height: 30px;
-        left: calc(50% - 149px/2 + 118.5px);
-        top: calc(50% - 30px/2);
-        font-family: 'Montserrat';
-        font-style: normal;
-        font-weight: 600;
-        font-size: 25px;
-        line-height: 30px;
-        align-items: center;
-        text-align: center;
-        background-color: var(--corTerc);
-        color: #000000;
-    }
-
-
-    .catalogo{
-        position: absolute;
-        width: 149px;
-        height: 30px;
-        left: calc(50% - 149px/2 + 572.5px);
-        top: calc(50% - 30px/2);
-        font-family: 'Montserrat';
-        font-style: normal;
-        font-weight: 600;
-        font-size: 25px;
-        line-height: 30px;
-        align-items: center;
-        text-align: center;
-        background-color: var(--corTerc);
-        color: #000000;
-    }
-
-/* FOOTER */
-
-footer{
-    position: relative;
-    width: 1440px;
-    height: 75px;
-    background-color: var(--corSec)
-}
-
-    .retanguloFooter{
-
-        position: absolute;
-        left: 29.17%;
-        right: 29.17%;
-        top: 33.33%;
-        bottom: 33.33%;
-        
-        background: var(--corQuart);
-        border-radius: 15px;
-    }
-
-    .direitos{
-        position: absolute;
-        left: 29.86%;
-        right: 30.21%;
-        top: 34.67%;
-        bottom: 33.33%;
-
-        font-family: 'Montserrat';
-        font-style: normal;
-        font-weight: 300;
-        font-size: 20px;
-        line-height: 24px;
-        align-items: center;
-        text-align: center;
-        background-color: var(--corQuart);
-        color: #000000;
-    }
-
-    .fixarRodape {
-        bottom: 0;
-        position: fixed;
-        width: 90%;
-        text-align: center
-    }
+        .fixarRodape {
+            bottom: 0;
+            position: fixed;
+            width: 100%;
+            text-align: center
+        }
