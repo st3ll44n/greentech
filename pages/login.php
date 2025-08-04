@@ -4,20 +4,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" type="imagex/png" href="C:\xampp\htdocs\GreenTech\images\image-3.ico">
-    <link rel="stylesheet" href="C:\xampp\htdocs\GreenTech\styles\all.css">
-    <link rel="stylesheet" href="C:\xampp\htdocs\GreenTech\styles\login.css">
-    <title>Login</title>
-    
+    <link rel="shortcut icon" type="imagex/png" href="images\image-3.ico">
+    <link rel="stylesheet" href="\styles\all.css">
+    <link rel="stylesheet" href="\styles\catalogo.css">
+    <title>Catálogo</title>
+
     <style>
             @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-    </style>    
-<body>
+    </style>  
 
+<body>
     <header class="header">
         <div class="retanguloHeader"></div>
         <div class="Logo">
-            <img src="C:\xampp\htdocs\GreenTech\images\logo.svg" alt="Logo GreenTech" class="logo" />
+            <img src="images\logo.svg" alt="Logo GreenTech" class="logo" />
         </div>
 
         <div class="retangulo1"></div>
@@ -27,22 +27,12 @@
         <h1 class="greentech">GreenTech</h1>
 
         <nav>
-        <a class="home" href="C:\xampp\htdocs\GreenTech\index.php">Home</a>
-            <a class="catalogo" href="C:\xampp\htdocs\GreenTech\pages\catalogo.php">Catálogo</a>
-            <a class="login" href="C:\xampp\htdocs\GreenTech\pages\login.php">Login</a>
-        </nav>
-
-    </header>
-
-        <nav>
-            <a class="home" href="C:\xampp\htdocs\GreenTech\index.php">Home</a>
+            <a class="home" href="/index.php">Home</a>
             <a class="catalogo" href="catalogo.php">Catálogo</a>
             <a class="login" href="login.php">Login</a>
         </nav>
-
     </header>
-    <main>
-<<<<<<< Updated upstream
+
         <!-- Título -->
         <div class="titulo-usuario">Usuário</div>
 
@@ -140,7 +130,7 @@
 
         <!-- Perfil (foto e dados) -->
         <div class="containerPerfil">
-            <img class="fotoPerfil" src="C:\xampp\htdocs\GreenTech\images\perfil.jpg" alt="pefil">
+            <img class="fotoPerfil" src="\images\perfil.jpg" alt="pefil">
         </div>
 
         <div class="caixaDados"></div>
@@ -161,36 +151,26 @@
             <div class="containerEmpresaP"></div>
                 <div class="perfilEmp">Perfil empresarial</div>
                     <div class="lorem1">
-<<<<<<< HEAD
-<<<<<<< Updated upstream
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                    </div>
-=======
+
+                    <div class="lorem2">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
                     </div>
->>>>>>> Stashed changes
-=======
+
+                    <div class="lorem3">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
                     </div>
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
 
          <!-- Caixa Serviços e Texto -->
         <div class="containerServG"></div>
             <div class="containerServP"></div>
                 <div class="servicos">Serviços e produtos contratados</div>
                     <div class="lorem2">
-<<<<<<< HEAD
-<<<<<<< Updated upstream
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                     <br>
                     <br>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-=======
-                    Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper.
->>>>>>> Stashed changes
-=======
-                    Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper.
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
                     </div>
 
         <!-- Opções de conta -->
@@ -198,11 +178,6 @@
             <a href="C:\xampp\htdocs\GreenTech\index.php" class="opcao3">• Sair</a>
             <a href="#" class="opcao2">• Editar perfil</a>
             <a href="#" class="opcao1">• Alterar pagamento</a>
-
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     </main>
 
     <footer class="fixarRodape" class="footer">

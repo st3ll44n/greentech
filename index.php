@@ -16,7 +16,7 @@
     <header class="header">
         <div class="retanguloHeader"></div>
         <div class="Logo">
-            <img src="images\logo.svg" alt="Logo GreenTech" class="logo" />
+            <img src="images/logo.svg" alt="Logo GreenTech" class="logo" />
         </div>
 
         <div class="retangulo1"></div>
@@ -26,9 +26,9 @@
         <h1 class="greentech">GreenTech</h1>
 
         <nav>
-        <a class="home" href="C:\xampp\htdocs\GreenTech\index.php">Home</a>
-            <a class="catalogo" href="C:\xampp\htdocs\GreenTech\pages\catalogo.php">Catálogo</a>
-            <a class="login" href="C:\xampp\htdocs\GreenTech\pages\login.php">Login</a>
+            <a class="home" href="greentech\index.php">Home</a>
+            <a class="catalogo" href="pages\catalogo.php">Catálogo</a>
+            <a class="login" href="pages\login.php">Login</a>
         </nav>
 
     </header>
@@ -67,63 +67,41 @@
 
 
         <!-- Notícia 1 -->
-<<<<<<< HEAD
-<<<<<<< Updated upstream
         <div class="Container" class="container1" >
-=======
+
         <div class="Container" class="container1" style="top: 275px; left: 440px; width: 28.7%; height: 180px;">
->>>>>>> Stashed changes
-=======
+
         <div class="Container" class="container1" style="top: 275px; left: 440px; width: 28.7%; height: 180px;">
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
             <div class="container2"></div>
             <p class="noticia"><br>Notícia importante!<br><br>
             Lorem ipsum dolor sit amet. Ut modi sint ab sint repudiandae ut laboriosam enim. Est enim neque non perferendis vero ea voluptas expedita qui corporis tenetur quo cumque praesentium. Ex nesciunt velit aut quia officia id eaque...</p>
         </div>
 
         <!-- Notícia 2 -->
-<<<<<<< HEAD
-<<<<<<< Updated upstream
         <div class="Container2" class="container1" >
-=======
+
         <div class="Container2" class="container1" style="top: 475px; left: 440px; width: 28.7%; height: 180px;">
->>>>>>> Stashed changes
-=======
+
         <div class="Container2" class="container1" style="top: 475px; left: 440px; width: 28.7%; height: 180px;">
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
             <div class="container2"></div>
             <p class="noticia"><br>Notícia importante!<br><br>
             Lorem ipsum dolor sit amet. Ut modi sint ab sint repudiandae ut laboriosam enim. Est enim neque non perferendis vero ea voluptas expedita qui corporis tenetur quo cumque praesentium. Ex nesciunt velit aut quia officia id eaque... </p>
         </div>
 
         <!-- Sobre nós - Bloco 1 -->
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
         <div class="Container3">
-=======
+
         <div class="Container3" style="top: 669px; left: 33px; width: 50%; height: 200px;">
->>>>>>> Stashed changes
-=======
-        <div class="Container3" style="top: 669px; left: 33px; width: 50%; height: 200px;">
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
+
             <div class="container4"></div>
             <p class="noticia"><br>Sobre nós<br><br>
             Lorem ipsum dolor sit amet. Ut modi sint ab sint repudiandae ut laboriosam enim. Est enim neque non perferendis vero ea voluptas expedita qui corporis tenetur quo cumque praesentium. Ex nesciunt velit aut quia officia id eaque soluta est doloremque dicta qui explicabo tenetur non amet veritatis. Et atque tenetur nam modi illo qui quos pariatur non tempora praesentium.</p>
         </div>
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
          <!--Imagem -->
           <img src="images/post.png" alt="Post 1" class="Image" />
           <img src="images/post2.png" alt="Post 2" class="Image1">
-=======
-         <!-- Imagem -->
-         <!-- <img src="images/post.png" alt="Descrição da imagem" class="Image" /> -->
->>>>>>> Stashed changes
-=======
-         <!-- Imagem -->
-         <!-- <img src="images/post.png" alt="Descrição da imagem" class="Image" /> -->
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     </main>
 
     <br>
