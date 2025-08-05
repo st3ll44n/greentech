@@ -21,7 +21,7 @@
         width: 630px;
         height: 180px;
         left: 440px;
-        top: 469px;
+        top: 400px;
         background-color: var(--corQuart);
         border-radius: 15px;
     }
@@ -48,10 +48,10 @@
 
     .container1{
         position: absolute;
-        left: 0%;
-        right: 0%;
-        top: -2.22%;
-        bottom: 2.22%;
+        top: 275px; 
+        left: 440px; 
+        width: 28.7%; 
+        height: 180px;
 
         background: #F1F8E9;
         border-radius: 15px;
@@ -386,25 +386,17 @@
 
     .Image {
         position: fixed;       /* fixa a imagem na tela */
-<<<<<<< HEAD
-<<<<<<< Updated upstream
         top: 520px;              /* posiciona no meio da altura da viewport */
         right: 520px;              /* encostada na direita */
-=======
         top: 100%;              /* posiciona no meio da altura da viewport */
         right: 650px;              /* encostada na direita */
->>>>>>> Stashed changes
-=======
         top: 100%;              /* posiciona no meio da altura da viewport */
         right: 650px;              /* encostada na direita */
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
         transform: translateY(-50%); /*centraliza verticalmente exato */
         width: 25%;           /* largura responsiva (25% da largura da tela) */
         max-width: 456px;      /* não ultrapassa 456px */
         height: auto;          /* altura automática para manter proporção */
         border-radius: 15px;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
         background-color: transparent; /* caso queira fundo transparente */
       }
 
@@ -417,12 +409,7 @@
         max-width: 456px;      /* não ultrapassa 456px */
         height: auto;          /* altura automática para manter proporção */
         border-radius: 15px;
-=======
         background: url('images/post.png') no-repeat center/cover;
->>>>>>> Stashed changes
-=======
-        background: url('images/post.png') no-repeat center/cover;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
         background-color: transparent; /* caso queira fundo transparente */
       }
       

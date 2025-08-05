@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 /* MENU DE OPÇÕES PRINCIPAL */
-=======
-<<<<<<< Updated upstream
 .titulo-usuario{
     position: absolute;
     width: 441px;
@@ -324,10 +321,8 @@
 }
 
 /* menu de opções - geral */
-=======
+
 /* MENU DE OPÇÕES PRINCIPAL */
->>>>>>> Stashed changes
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
 
 .menu1{
     position: absolute;
@@ -582,12 +577,9 @@
     color: #FFFFFF;    
 }
 
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
+
 /* menu de opçãos - abaixo */
-=======
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
+
 /* DADOS, PERFIL E SERVIÇOS */
 
 .containerPerfil{
@@ -595,22 +587,12 @@
     position: absolute;
     width: 180px;
     height: 180px;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     left: 24.96%;
     right: 53.54%;
     top: 30.05%;
-=======
-=======
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
-    left: 25
-.96%;
+    left: 25.96%;
     right: 53.54%;
     top: 31.05%;
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     bottom: 51.37%;
     border-radius: 100%;
     
@@ -620,20 +602,15 @@
     .caixaDados{
     
     position: absolute;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     width: 900px;
     height: 160px;
     left: 36%;
     right: 10.32%;
-=======
+
     left: 50%;
     right: 6.32%;
->>>>>>> Stashed changes
-=======
     left: 50%;
     right: 6.32%;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     top: 31.05%;
     bottom: 51.37%;
     
@@ -644,18 +621,13 @@
     .containerEmpresaG{
     
     position: absolute;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
     left: 24.96%;
     right: 17.15%;
-=======
     left: 33.96%;
     right: 6.32%;
->>>>>>> Stashed changes
-=======
     left: 33.96%;
     right: 6.32%;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     top: 50.49%;
     bottom: 36.82%;
     
@@ -666,18 +638,12 @@
     .containerServG{
     
     position: absolute;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     left: 24.96%;
     right: 17.15%;
-=======
     left: 33.96%;
     right: 6.32%;
->>>>>>> Stashed changes
-=======
     left: 33.96%;
     right: 6.32%;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     top: 64.94%;
     bottom: 15.53%;
     
@@ -686,27 +652,14 @@
     }
     
     .tituloUsuario{
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-    
->>>>>>> Stashed changes
-=======
-    
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
+
     position: absolute;
     width: 441px;
     height: 63px;
     left: 489px;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     top: 205px;
-=======
     top: 227px;
->>>>>>> Stashed changes
-=======
     top: 227px;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     
     font-family: 'Montserrat';
     font-style: normal;
@@ -717,26 +670,17 @@
     color: #000000;
     }
     
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     .containerNome{
     
     position: absolute;
     width: 850px;
     height: 25px;
     left: 37%;
-=======
-=======
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     
     .containerNome{
     
     position: absolute;
     left: 51.04%;
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     right: 7.29%;
     top: 34.08%;
     bottom: 63.48%;
@@ -745,25 +689,18 @@
     border-radius: 15px;
     }
     
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     .containerEmpresaP{
     
     position: absolute;
     left: 25.96%;
     right: 18.15%;
-=======
-=======
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
+    }
+
     .conatainerEmpresaP{
     
     position: absolute;
     left: 35.49%;
     right: 7.92%;
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     top: 53.61%;
     bottom: 38.09%;
     
@@ -774,21 +711,18 @@
     .containerServP{
     
     position: absolute;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
     left: 25.96%;
     right: 18.15%;
     top: 67.80%;
-=======
     left: 35.49%;
     right: 7.92%;
     top: 69.04%;
->>>>>>> Stashed changes
-=======
+
     left: 35.49%;
     right: 7.92%;
     top: 69.04%;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
+
     bottom: 17.29%;
     
     background: #CFD8DC;
@@ -798,17 +732,15 @@
     .containerEmail{
     
     position: absolute;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
     width: 850px;
     height: 25px;
     left: 37%;
-=======
+
     left: 51.04%;
->>>>>>> Stashed changes
-=======
+
     left: 51.04%;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
+
     right: 7.29%;
     top: 38.57%;
     bottom: 58.98%;
@@ -820,17 +752,13 @@
     .containerTelefone{
     
     position: absolute;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
     width: 850px;
     height: 25px;
     left: 37%;
-=======
+
     left: 51.04%;
->>>>>>> Stashed changes
-=======
     left: 51.04%;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     right: 7.29%;
     top: 43.07%;
     bottom: 54.49%;
@@ -843,18 +771,16 @@
     position: absolute;
     width: 306px;
     height: 12px;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
     left: 712px;
     top: 308px;
-=======
+
     left: 735px;
     top: 330px;
->>>>>>> Stashed changes
-=======
+
     left: 735px;
     top: 330px;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
+
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -872,18 +798,16 @@
     position: absolute;
     width: 306px;
     height: 12px;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
     left: 505px;
     top: 630px;
-=======
+
     left: 511px;
     top: 684px;
->>>>>>> Stashed changes
-=======
+
     left: 511px;
     top: 684px;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
+
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -898,26 +822,18 @@
     }
     
     .perfilEmp{
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     position: absolute;
     width: 306px;
     height: 12px;
     left: 505px;
     top: 495px;
-=======
-=======
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     
     position: absolute;
     width: 306px;
     height: 12px;
     left: 511px;
     top: 531px;
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
+
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -931,31 +847,19 @@
     color: #000000;
     }
     
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-    
->>>>>>> Stashed changes
-=======
-    
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     .email{
     
     position: absolute;
     width: 306px;
     height: 12px;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     left: 712px;
     top: 354px;
-=======
+
     left: 735px;
     top: 379px;
->>>>>>> Stashed changes
-=======
+
     left: 735px;
     top: 379px;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -975,18 +879,14 @@
     position: absolute;
     width: 306px;
     height: 12px;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
     left: 712px;
     top: 397px;
-=======
     left: 735px;
     top: 425px;
->>>>>>> Stashed changes
-=======
+
     left: 735px;
     top: 425px;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -1005,18 +905,15 @@
     position: absolute;
     width: 275px;
     height: 11px;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
     left: 730px;
     top: 331px;
-=======
+
     left: 750px;
     top: 356px;
->>>>>>> Stashed changes
-=======
+
     left: 750px;
     top: 356px;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -1034,18 +931,16 @@
     position: absolute;
     width: 275px;
     height: 11px;
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
     left: 730px;
     top: 375px;
-=======
+
     left: 750px;
     top: 403px;
->>>>>>> Stashed changes
-=======
+
     left: 750px;
     top: 403px;
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
+
     background-color: transparent;
     
     font-family: 'Montserrat';
@@ -1183,11 +1078,9 @@
     position: absolute;
     width: 389px;
     height: 189px;
-<<<<<<< HEAD
     left: 37px;
     top: 668px;
-=======
-<<<<<<< Updated upstream
+
     left: 43px;
     top: 718px;
 =======
@@ -1311,5 +1204,3 @@
 
     color: #000000; 
 }   
->>>>>>> Stashed changes
->>>>>>> 253b14aabde9767d238bb3e78765f39eecfb1f37
