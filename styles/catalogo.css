@@ -25,8 +25,8 @@
     /* Bloco maior */
     .servico-produto {
         position: relative;
-        width: 280px;
-        height: 280px;
+        width: 400px;
+        height: 400px;
         background: #2E7D32;
         border-radius: 12px;
     }
@@ -34,9 +34,11 @@
     /* Frame maior proporcional */
     .servico-frame {
         position: relative;
-        width: 200px;
-        height: 200px;
+        width: 280px;
+        height: 280px;
         margin: 20px auto 0 auto;
+        background: #FEFBE8;
+        background: #A5D6A7;
         background: #A5D6A7;
         border-radius: 8px;
     }
@@ -50,7 +52,7 @@
         font-family: 'Montserrat', sans-serif;
         font-style: normal;
         font-weight: 550;
-        font-size: 17.5px;
+        font-size: 20px;
         line-height: 18px;
         text-align: center;
         background: #2E7D32;
@@ -62,72 +64,64 @@
 
     .campanhas{
         position: absolute;
-        width: 160px;
-        height: 182px;
+        width: 250px;
+        height: 272px;
         left: 20px;
-        top: 10px;
-        border-radius: 8px;
+        top: 5px;
     }
 
     .consultoria{
         position: absolute;
-        width: 150px;
-        height: 172px;
-        left: 24px;
-        top: 13px;
-        border-radius: 8px;
+        width: 250px;
+        height: 272px;
+        left: 15px;
+        top: 6px;
     }
 
     .gestaoResiduos{
         position: absolute;
-        width: 160px;
-        height: 170px;
-        left: 20px;
-        top: 13px;
-        border-radius: 8px;
+        width: 250px;
+        height: 270px;
+        left: 15px;
+        top: 2px;
     }
 
     .gestaoMonitoramento{
         position: absolute;
-        width: 160px;
-        height: 184px;
-        left: 20px;
-        top: 8px;
-        border-radius: 8px;
+        width: 235px;
+        height: 279px;
+        left: 23px;
+        top: 1px;
     }
 
     .plataformas{
         position: absolute;
-        width: 180px;
-        height: 180px;
-        left: 10px;
-        top: 7px;
-        border-radius: 8px;
+        width: 270px;
+        height: 270px;
+        left: 7.5px;
+        top: 5px;
     }
 
     .tecnologia{    
         position: absolute;
-        width: 160px;
-        height: 182px;
-        left: 20px;
-        top: 10px;
-        border-radius: 8px;
+        width: 250px;
+        height: 280px;
+        left: 25px;
+        top: 0px;
     }
 
     .solucoes{
         position: absolute;
-        width: 160px;
-        height: 182px;
-        left: 20px;
-        top: 10px;
-        border-radius: 8px;
+        width: 250px;
+        height: 262px;
+        left: 25px;
+        top: 6px;
     }
 
     .sistemas{
         position: absolute;
-        width: 160px;
-        height: 182px;
-        left: 20px;
-        top: 10px;
-        border-radius: 8px;
+        width: 219px;
+        height: 280px;
+        left: 30px;
+        top: 0px;
     }

@@ -1,13 +1,13 @@
-Login<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" type="imagex/png" href="../images/image-3.ico">
-    <link rel="stylesheet" href="../styles/all.css">
-    <link rel="stylesheet" href="../styles/login.css">
-    <title>Login</title>
+    <link rel="shortcut icon" type="imagex/png" href="images\image-3.ico">
+    <link rel="stylesheet" href="\styles\all.css">
+    <link rel="stylesheet" href="\styles\catalogo.css">
+    <title>Catálogo</title>
 
     <style>
             @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
@@ -17,7 +17,7 @@ Login<!DOCTYPE html>
     <header class="header">
         <div class="retanguloHeader"></div>
         <div class="Logo">
-            <img src="../images/logo.svg" alt="Logo GreenTech" class="logo" />
+            <img src="images\logo.svg" alt="Logo GreenTech" class="logo" />
         </div>
 
         <div class="retangulo1"></div>
@@ -27,7 +27,7 @@ Login<!DOCTYPE html>
         <h1 class="greentech">GreenTech</h1>
 
         <nav>
-            <a class="home" href="../index.php">Home</a>
+            <a class="home" href="/index.php">Home</a>
             <a class="catalogo" href="catalogo.php">Catálogo</a>
             <a class="login" href="login.php">Login</a>
         </nav>
@@ -130,7 +130,7 @@ Login<!DOCTYPE html>
 
         <!-- Perfil (foto e dados) -->
         <div class="containerPerfil">
-            <img class="fotoPerfil" src="/images/perfil.jpg" alt="pefil">
+            <img class="fotoPerfil" src="\images\perfil.jpg" alt="pefil">
         </div>
 
         <div class="caixaDados"></div>
@@ -175,7 +175,7 @@ Login<!DOCTYPE html>
 
         <!-- Opções de conta -->
         <div class="menuOpcao"></div>
-            <a href="/index.php" class="opcao3">• Sair</a>
+            <a href="C:\xampp\htdocs\GreenTech\index.php" class="opcao3">• Sair</a>
             <a href="#" class="opcao2">• Editar perfil</a>
             <a href="#" class="opcao1">• Alterar pagamento</a>
     </main>
