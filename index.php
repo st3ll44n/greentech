@@ -26,9 +26,9 @@
         <h1 class="greentech">GreenTech</h1>
 
         <nav>
-            <a class="home" href="greentech\index.php">Home</a>
-            <a class="catalogo" href="pages\catalogo.php">Catálogo</a>
-            <a class="login" href="pages\login.php">Login</a>
+            <a class="home" href="index.php">Home</a>
+            <a class="catalogo" href="pages/catalogo.php">Catálogo</a>
+            <a class="login" href="pages/login.php">Login</a>
         </nav>
 
     </header>
@@ -67,22 +67,16 @@
 
 
         <!-- Notícia 1 -->
-        <div class="Container" class="container1" >
 
-        <div class="Container" class="container1" style="top: 275px; left: 440px; width: 28.7%; height: 180px;">
-
-        <div class="Container" class="container1" style="top: 275px; left: 440px; width: 28.7%; height: 180px;">
+        <div class="Container" class="container1">
             <div class="container2"></div>
             <p class="noticia"><br>Notícia importante!<br><br>
             Lorem ipsum dolor sit amet. Ut modi sint ab sint repudiandae ut laboriosam enim. Est enim neque non perferendis vero ea voluptas expedita qui corporis tenetur quo cumque praesentium. Ex nesciunt velit aut quia officia id eaque...</p>
         </div>
 
         <!-- Notícia 2 -->
-        <div class="Container2" class="container1" >
-
-        <div class="Container2" class="container1" style="top: 475px; left: 440px; width: 28.7%; height: 180px;">
-
-        <div class="Container2" class="container1" style="top: 475px; left: 440px; width: 28.7%; height: 180px;">
+    
+        <div class="Container2" class="container1">
             <div class="container2"></div>
             <p class="noticia"><br>Notícia importante!<br><br>
             Lorem ipsum dolor sit amet. Ut modi sint ab sint repudiandae ut laboriosam enim. Est enim neque non perferendis vero ea voluptas expedita qui corporis tenetur quo cumque praesentium. Ex nesciunt velit aut quia officia id eaque... </p>
@@ -90,18 +84,17 @@
 
         <!-- Sobre nós - Bloco 1 -->
 
-        <div class="Container3">
-
         <div class="Container3" style="top: 669px; left: 33px; width: 50%; height: 200px;">
 
-            <div class="container4"></div>
+            <div class="container4">
             <p class="noticia"><br>Sobre nós<br><br>
             Lorem ipsum dolor sit amet. Ut modi sint ab sint repudiandae ut laboriosam enim. Est enim neque non perferendis vero ea voluptas expedita qui corporis tenetur quo cumque praesentium. Ex nesciunt velit aut quia officia id eaque soluta est doloremque dicta qui explicabo tenetur non amet veritatis. Et atque tenetur nam modi illo qui quos pariatur non tempora praesentium.</p>
+            </div>
         </div>
 
          <!--Imagem -->
-          <img src="images/post.png" alt="Post 1" class="Image" />
-          <img src="images/post2.png" alt="Post 2" class="Image1">
+          <!-- <img src="images/post.png" alt="Post 1" class="Image" />
+          <img src="images/post2.png" alt="Post 2" class="Image1"> -->
     </main>
 
     <br>

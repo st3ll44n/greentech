@@ -23,7 +23,7 @@
     .header {
         position: relative;
         width: 100%;
-        height: 150px;
+        height: 90px;
         background-color: var(--corSec);
         display: flex;
         align-items: center;
@@ -61,7 +61,7 @@
         background-color: var(--corSec);
         text-align: center;
         position: absolute;
-        left: 190px;
+        left: 125px;
         margin: 0 20px;
         min-width: 150px;
     }
@@ -125,7 +125,7 @@
     footer{
         position: relative;
         width: 100%;
-        height: 75px;
+        height: 50px;
         background-color: var(--corSec)
     }
 
@@ -134,8 +134,8 @@
             position: absolute;
             left: 29.17%;
             right: 29.17%;
-            top: 33.33%;
-            bottom: 33.33%;
+            top: 30%;
+            bottom: 30%;
             
             background: var(--corQuart);
             border-radius: 15px;
@@ -145,13 +145,13 @@
             position: absolute;
             left: 29.86%;
             right: 30.21%;
-            top: 34.67%;
-            bottom: 33.33%;
+            top: 30%;
+            bottom: 30%;
 
             font-family: 'Montserrat';
             font-style: normal;
             font-weight: 300;
-            font-size: 20px;
+            font-size: 18px;
             line-height: 24px;
             align-items: center;
             text-align: center;

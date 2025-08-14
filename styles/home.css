@@ -3,7 +3,7 @@
         width: 441px;
         height: 63px;
         left: 481px;
-        top: 175px;
+        top: 125px;
 
         font-family: 'Montserrat';
         font-style: normal;
@@ -18,20 +18,20 @@
 
     .Container{
         position: absolute;
-        width: 630px;
+        top: 225px; 
+        left: 440px; 
+        width: 40%; 
         height: 180px;
-        left: 440px;
-        top: 400px;
         background-color: var(--corQuart);
         border-radius: 15px;
     }
 
     .Container2{
         position: absolute;
-        width: 630px;
+        top: 425px; 
+        left: 440px; 
+        width: 40%; 
         height: 180px;
-        left: 440px;
-        top: 269px; 
         background-color: var(--corQuart);   
         border-radius: 15px;    
     }
